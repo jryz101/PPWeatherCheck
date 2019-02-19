@@ -1,5 +1,5 @@
 # PPWeatherCheck
-Incorporate with CoreLocation Cocoapods, APIs, Rest to Create a Weather Check App
+Incorporate with CoreLocation Cocoapods, APIs, UIAnimation REST to Create a Weather Check App
 
 
 
