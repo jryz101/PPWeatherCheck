@@ -1,10 +1,11 @@
 # PPWeatherCheck
-Incorporate with CoreLocation, Cocoapods, REST APIs,JSON, Alamofire, and UIAnimation to Create a Weather Check App.
+Incorporate with Delegates, CoreLocation, Cocoapods, REST APIs,JSON, Alamofire, and UIAnimation.
 
-In this application, you will be going to learn how to build a weather check application by using Alamofire and SwifyJSON to get weather data from openweathermap.org.
+In this application, you will be going to learn how to build a WEATHERCHECK application using Delegates, CoreLocation, Cocoapods, REST APIs,JSON, Alamofire, and UIAnimation.
+
+Weather Source: openweathermap.org
 
 ## Guides
-
 1. Install Cocoapods on your computer.
 2. Add new Pod Alamofire and SwiftyJSON in your Xcode Project.
 3. Setting up the Location Manager to Get GPS Data from the iPhone.
