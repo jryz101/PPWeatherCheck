@@ -94,8 +94,8 @@
 		63E28AFB1B99C37500FBF6E0 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				63E28AF51B99C36100FBF6E0 /* WeatherViewController.swift */,
 				63E28AF21B99C36100FBF6E0 /* ChangeCityViewController.swift */,
+				63E28AF51B99C36100FBF6E0 /* WeatherViewController.swift */,
 				63E28AD01B99C32400FBF6E0 /* AppDelegate.swift */,
 			);
 			name = Controller;
