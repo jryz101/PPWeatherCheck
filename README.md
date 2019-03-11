@@ -16,6 +16,11 @@ Weather Source: openweathermap.org
 8. Using delegates and protocols to pass data between the view controller.
 9. Implement UIImageView Animation for the weather icon.
 
+## Screenshot
+
+![Screen Shot 2019-03-11 at 8 41 55 PM](https://user-images.githubusercontent.com/23055114/54124729-24593d00-443e-11e9-886f-3d3c43dea89d.png)
+
+
 
 
 
