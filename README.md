@@ -11,7 +11,7 @@ Weather Source: openweathermap.org
 3. Setting up the Location Manager to Get GPS Data from the iPhone.
 4. Working with user location permission and GPS.
 5. Networking with Alamofire.
-6. Working with the JSON Format to parse data.
+6. Working with the JSON Format with Parse data.
 7. Create data weather model.
 8. Using delegates and protocols to pass data between the view controller.
 9. Implement UIImageView Animation for the weather icon.
